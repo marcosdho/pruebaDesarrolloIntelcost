@@ -1,0 +1,15 @@
+{
+    "name": "test/buscador",
+    "authors": [
+        {
+            "name": "Marcos Hernandez",
+            "email": "marcosdho@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Clases\\":"./Clases"
+        }
+    }
+}
